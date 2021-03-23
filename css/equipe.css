@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+.cadre {
+	height: 50%;
+	width: 50%;
+	margin-left: 20%;
+}
+.cadre img{
+	height: 45%;
+	width: 25%;
+	border: 2px solid blue;
+	margin-left: 2px;
+	border-radius: 50px;
+	float: left;
+}
+ .cadre .text-cadre{
+ 	height: 15%;
+	width: 30%;
+	margin-right: 2px;
+	float: right;
+	clear: both;
+}
+
